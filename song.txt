@@ -3,3 +3,6 @@
 456456
 fghfgh
 fgfhgggf
+
+text for commit 1
+text for commit 2
